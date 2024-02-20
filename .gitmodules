@@ -1,0 +1,6 @@
+[submodule "BADNerf"]
+	path = BADNerf
+	url = https://github.com/souravb111/BAD-NeRF.git
+[submodule "BARF"]
+	path = BARF
+	url = https://github.com/souravb111/bundle-adjusting-NeRF.git
