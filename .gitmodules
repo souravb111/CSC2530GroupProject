@@ -4,3 +4,9 @@
 [submodule "BARF"]
 	path = BARF
 	url = https://github.com/souravb111/bundle-adjusting-NeRF.git
+[submodule "instant-ngp"]
+	path = instant-ngp
+	url = https://github.com/NVlabs/instant-ngp.git
+[submodule "colmap"]
+	path = colmap
+	url = https://github.com/colmap/colmap.git
